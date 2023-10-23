@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">locationMasters</string>
+    <string name="txt_lat">Lat</string>
+    <string name="txt_long">Long</string>
+</resources>
